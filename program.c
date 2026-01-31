@@ -1,2 +1,2 @@
-printf("HELLO");
+printf("hai");
 printf("GITHUB");
